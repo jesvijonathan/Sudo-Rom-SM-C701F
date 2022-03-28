@@ -1,0 +1,31 @@
+<@center><b><#selectbg_g>TERMS AND CONDITIONS</#></b>
+5 October 2019 
+<b>SUDO ROM</b>
+
+<b><#selectbg_g>No , Your Are Not Allowed To Kang Anything From Any Part Of This Rom Without <u>My Permission</u></#></b></@>
+
+<b><#selectbg_g>Disclaimer :</#></b>
+
+<@fill><q>I am not responsible for bricked devices or any malfunction caused due to your carelessness . Please do some research if you have any concerns about features included in this ROM before flashing it! *YOU* are the one choosing to make these modifications , and if you point the finger at me for messing up your device, I will laugh at you ! & If it works and you are satisfied then I will claim all credits without leaving any one !</q></@>
+
+<b><#selectbg_g>Why I Made This Sudo Rom :</#></b>
+
+<@fill><q>I am not your slave to create roms and other stuff but i do this out of passion and mainly as a <b>HOBBY FOR ME, MYSELF</b>, So please don't freaking ask me ETA's and other silly questions. Well, in other words i dont care coz I dont get paid (<#888><b>Donations Accepted</b></#>) to do this stuff .</q></@>
+
+<b><#selectbg_g>Aim :</#></b>
+
+<@fill><q>The main of this rom is to <b>provide bugless/lite environment, give sudo access, Add multi support devices, for performance boost / smooth experience and to be used as a daily drive</b>. This version was/is mainly intended to define the very base & Bring out max performance of your device, still hoping to build a rock solid version within 2-3 Releases...  Your help/support is what I need !  :)</q></@>
+
+
+<b><#selectbg_g>Do You Wanna Help Me ?</#></b>
+
+<@fill><q>If you want to help me in some way , then you can -
+
+* DONATE ME  via paypal  
+
+* RECHARGE my cellular   (or)  
+
+* <b>HIT THE THANK BUTTON</b>  in my xda thread .</q></@>
+
+<@center><b><#selectbg_g>END OF TERMS AND CONDITIONS</#></b></@>
+<@center>-----------------------------</@>
