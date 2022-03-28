@@ -3,6 +3,9 @@ Sudo Rom's source, includes the aroma files, Rom links, and all stuff... just ka
 
 This Repo Consists Of Sudo Rom's Tweaks, Framework mods, Aroma Source, Links & etc. 
 
+you can download the rom and use it as per your wish, any part of it... that includes my work.
+You can contact for additional resources/files from my sudo/eulah project
+
 ## Download Links 
 #### Website : https://forum.xda-developers.com/t/rom-sudo-rom-v1-1-stable-for-galaxy-c7-c7-pro-22-jun-21.3977881/
 #### Rom : https://drive.google.com/file/d/1-2b6Q7jrzDqFzYIiAujwVjekTd-HsXCV/view?usp=sharing
