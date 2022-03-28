@@ -8,4 +8,5 @@ This Repo Consists Of Sudo Rom's Tweaks, Framework mods, Aroma Source, Links & e
 #### Rom : https://drive.google.com/file/d/1-2b6Q7jrzDqFzYIiAujwVjekTd-HsXCV/view?usp=sharing
 #### Patch Link : https://drive.google.com/file/d/1AzzsGDPig55-wnsmOBiSqXtePFAjUVy7/view?usp=drivesdk
 #### Eulah Kernel Source (C7 Pro/MSM8953 Pro) : https://github.com/jesvijonathan/Eulah-Kernel-SM-C701F
+#### C7 Pro TWRP : https://androidfilehost.com/?w=files&flid=275664
 #### C7/C7 Pro Development Every File Link : https://drive.google.com/drive/folders/1-xbT--xR4PkOLmVVDdz3kfZWSwt7VXqw?usp=sharing
