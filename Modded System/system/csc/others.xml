@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00019</Version>
+  <Country>INDIA</Country>
+  <CountryISO>IN</CountryISO>
+  <SalesCode>INS</SalesCode>
+  <FeatureSet>
+    <CscFeature_Common_ConfigEmergencyModePackages>com.samsung.android.applock,com.sec.android.providers.iwlansettings,com.sec.android.providers.mapcon</CscFeature_Common_ConfigEmergencyModePackages>
+
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>   
+
+   <CscFeature_Common_ConfigOpBrandingForWFC>Jio WiFi</CscFeature_Common_ConfigOpBrandingForWFC>
+    <!--CscFeature_Common_ConfigTagForMonetizationApps>com.eterno;in.amazon.mShop.android.shopping;com.aura.oobe.samsung;in.mohalla.sharechat</CscFeature_Common_ConfigTagForMonetizationApps-->
+    <CscFeature_Common_ConfigYuva>sprotect|powerplanning|reserve|zeroforward|mileage</CscFeature_Common_ConfigYuva>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_Common_SupportWcdmaInSlave>TRUE</CscFeature_Common_SupportWcdmaInSlave>
+    <CscFeature_Contact_ConfigImsOpStyle>INS</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_FMRadio_ConfigHybridSearchTunnig>22,87800,6,88500,6,88600,6,88700,6,88900,6,90900,6,91000,6,92500,6,94100,6,94200,6,94900,6,96000,6,98200,6,102500,6,102800,6,104200,6,104600,6,104700,6,105000,6,105600,6,106200,6,106600,6</CscFeature_FMRadio_ConfigHybridSearchTunnig>
+    <CscFeature_FMRadio_RecordingVolumeAs>11</CscFeature_FMRadio_RecordingVolumeAs>
+    <CscFeature_FMRadio_SetLocalTunning>-102,1,2,1,-125</CscFeature_FMRadio_SetLocalTunning>
+    <CscFeature_Framework_ConfigActionForMultiPowerPress>PanicMode</CscFeature_Framework_ConfigActionForMultiPowerPress>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_IMS_ConfigRcsFeatures>PARTIAL_BRANDED|RCS_UI_FOR_OPEN|RCS_CPR</CscFeature_IMS_ConfigRcsFeatures>
+    <CscFeature_IMS_EnableIMS>TRUE</CscFeature_IMS_EnableIMS>
+    <CscFeature_IMS_EnableRCSe>TRUE</CscFeature_IMS_EnableRCSe>
+    <CscFeature_IMS_EnableVoLTE>TRUE</CscFeature_IMS_EnableVoLTE>
+    <CscFeature_IMS_FrameworkVersion>6.0</CscFeature_IMS_FrameworkVersion>
+    <CscFeature_LockScreen_DisableUnlockVI>TRUE</CscFeature_LockScreen_DisableUnlockVI>
+    <CscFeature_Message_ConfigFreeMessage>off</CscFeature_Message_ConfigFreeMessage>
+    <CscFeature_Message_ConfigImeiTracker>+919560345888,+918424098931,+919176905802</CscFeature_Message_ConfigImeiTracker>
+    <CscFeature_RIL_CallCsVtSupport>TRUE</CscFeature_RIL_CallCsVtSupport>
+    <CscFeature_RIL_ConfigAlwaysOnApn>ims,xcap</CscFeature_RIL_ConfigAlwaysOnApn>
+    <CscFeature_RIL_ConfigEpdgExtraFunction>ERIS,SUPPORTWEAKSIGNALHO,ENHANCEDVOWIFI20</CscFeature_RIL_ConfigEpdgExtraFunction>
+    <CscFeature_RIL_ConfigNetworkNameForEpdg>Jio WiFi</CscFeature_RIL_ConfigNetworkNameForEpdg>
+    <CscFeature_RIL_ConfigNetworkStatusIcon>DC</CscFeature_RIL_ConfigNetworkStatusIcon>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_DataPrefDataTechSnapShot>TRUE</CscFeature_RIL_DataPrefDataTechSnapShot>
+    <CscFeature_RIL_DisableEons>TRUE</CscFeature_RIL_DisableEons>
+    <CscFeature_RIL_Display4gPlusIconBandwidth>9</CscFeature_RIL_Display4gPlusIconBandwidth>
+    <CscFeature_RIL_DisplayAntennaLimited>TRUE</CscFeature_RIL_DisplayAntennaLimited>
+    <CscFeature_RIL_E911RoutingPolicy>qmisrchmdm</CscFeature_RIL_E911RoutingPolicy>
+    <CscFeature_RIL_EnableCallBarringConnectToUssd>TRUE</CscFeature_RIL_EnableCallBarringConnectToUssd>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_RIL_IgnoreNitzNetworkName>TRUE</CscFeature_RIL_IgnoreNitzNetworkName>
+    <CscFeature_RIL_STKHandlingSendSMSbyAP>TRUE</CscFeature_RIL_STKHandlingSendSMSbyAP>
+    <CscFeature_RIL_SetNetworkTypeWhenRadioOff>TRUE</CscFeature_RIL_SetNetworkTypeWhenRadioOff>
+    <CscFeature_RIL_SrvccRel>10</CscFeature_RIL_SrvccRel>
+    <CscFeature_RIL_SsRoutingPolicy>ims</CscFeature_RIL_SsRoutingPolicy>
+    <CscFeature_RIL_Support75Mode>TRUE</CscFeature_RIL_Support75Mode>
+    <CscFeature_RIL_SupportEmbms>TRUE</CscFeature_RIL_SupportEmbms>
+    <CscFeature_RIL_SupportEpdg>TRUE</CscFeature_RIL_SupportEpdg>
+    <CscFeature_RIL_SupportEpdgOnAirplaneMode>TRUE</CscFeature_RIL_SupportEpdgOnAirplaneMode>
+    <CscFeature_RIL_SupportImsService>TRUE</CscFeature_RIL_SupportImsService>
+    <CscFeature_RIL_SupportSrvcc>TRUE</CscFeature_RIL_SupportSrvcc>
+    <CscFeature_RIL_SupportVolte>TRUE</CscFeature_RIL_SupportVolte>
+    <CscFeature_RIL_SupportVolteVtCall>TRUE</CscFeature_RIL_SupportVolteVtCall>
+    <CscFeature_RIL_SupportWcdma75Mode>TRUE</CscFeature_RIL_SupportWcdma75Mode>
+    <CscFeature_RIL_UseMpsForImsSetting>TRUE</CscFeature_RIL_UseMpsForImsSetting>
+    <CscFeature_RIL_UssdRoutingPolicy>ims</CscFeature_RIL_UssdRoutingPolicy>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_Setting_ConfigAddSuffixModelNumber>/DS</CscFeature_Setting_ConfigAddSuffixModelNumber>
+    <CscFeature_Setting_HideApnList>ims,IMS,xcap,XCAP</CscFeature_Setting_HideApnList>
+    <CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>
+    <CscFeature_Setting_SupportWiFiCallingMenu>TRUE</CscFeature_Setting_SupportWiFiCallingMenu>
+    <CscFeature_Setting_SupportWifiCall>TRUE</CscFeature_Setting_SupportWifiCall>
+    <CscFeature_SmartManager_ConfigDashboard>dual_dashboard</CscFeature_SmartManager_ConfigDashboard>
+    <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart|UDS2</CscFeature_SmartManager_ConfigSubFeatures>
+    <CscFeature_SmartManager_ConfigUdsSubFeatures>videocompression</CscFeature_SmartManager_ConfigUdsSubFeatures>
+    <CscFeature_SyncML_SwUpdateActionDuringRoaming>roaminginfo</CscFeature_SyncML_SwUpdateActionDuringRoaming>
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SilentMode,Bluetooth,RotationLock,Flashlight,AirplaneMode,PowerSaving,MobileData,WifiCalling,Performance,BlueLightFilter,WifiHotspot,PersonalMode,SecureFolder,Location,Nfc,Aod,AllShareCast,DeviceVisibility,Hotspot,Dnd,Sync,UDS,PowerPlanning,EdgeLighting,Dolby</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+    
+    <CscFeature_SystemUI_ConfigQuickSettingPopup>INS</CscFeature_SystemUI_ConfigQuickSettingPopup>
+    <CscFeature_VT_SupportMerge>TRUE</CscFeature_VT_SupportMerge>
+    <CscFeature_VT_SupportRotationScreen>TRUE</CscFeature_VT_SupportRotationScreen>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>INS_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>voltesettingscommon,checknonvoltesim,checksimwithoutsetting</CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>
+    <CscFeature_VoiceCall_ConfigOpStyleForNetworkSetting>StopNetworkSearchingOnPause,GetPreferredNTModeForLteOnly</CscFeature_VoiceCall_ConfigOpStyleForNetworkSetting>
+    <CscFeature_VoiceCall_ConfigOpStyleForVolte>INS_VOLTE,support_merge_option_waitingcall_dialog</CscFeature_VoiceCall_ConfigOpStyleForVolte>
+    
+    <CscFeature_VoiceCall_DisableGeoDescription>TRUE</CscFeature_VoiceCall_DisableGeoDescription>
+    <CscFeature_VoiceCall_TunnigCallWaitingToneAs>99</CscFeature_VoiceCall_TunnigCallWaitingToneAs>
+    <CscFeature_Web_ConfigDomainKeepIdleConnection>digilocker.gov.in</CscFeature_Web_ConfigDomainKeepIdleConnection>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>FALSE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_Wifi_ConfigMenuStatusForHotspot20>DEFAULT_ON,MENU_ON</CscFeature_Wifi_ConfigMenuStatusForHotspot20>
+    <CscFeature_mCommerce_WalletMgrConfig>Disable</CscFeature_mCommerce_WalletMgrConfig>
+  </FeatureSet>
+</SamsungMobileFeature>

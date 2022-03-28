@@ -1,0 +1,32 @@
+Framework mods c7 pro (8.0) (2019 5)
+
+Modded Files Inside of "system.zip" file
+
+These are the framework applications i modded during eulah project
+they can be used in c7 pro roms (8.0) took some effort, especially time, trials and research
+
+
+framework.jar -
+* device care
+* rounded corner
+* ims mod
+* security policy bypass / take escreen shots
+
+framework.res -
+* camera minor mods
+* secure folder patch 
+
+secsettings.apk -
+* rom info panel (dedicated & my fav)
+* key light mod
+* put door mode mod
+* new icon
+** the fingerprint for some reason does not register in this
+
+systemui.apk - 
+* vol warning bypass mod
+* brightness warning bypass mod
+* finger (idk what that means rn)
+
+
+and many more that i forgot

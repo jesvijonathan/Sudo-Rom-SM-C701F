@@ -1,0 +1,21 @@
+Sudo Rom (2019)
+
+link : https://forum.xda-developers.com/t/rom-sudo-rom-v1-1-stable-for-galaxy-c7-c7-pro-22-jun-21.3977881/
+
+The aim of this rom is simple, keep it clean and tidy
+This rom had all the good stuff, 
+was super neat
+better, updated, tweaked kernel & system
+had a cleaner code & structure
+very fast 
+light wight
+no extra/ unwanted stuffs/bloats
+very minimal size
+unified framework structure for c7 and c7 pro
+add every variant support automatically
+optimized stock interface with flagshipmods and tweaks in every corner possible
+and rectify all the mistakes made in eulah v2 and older
+
+This is one of my very satisfied release coz it turned out very well and i was happy with the response and outcome from the project
+i was really satified with this release and the only problem it had was with c7 (c7000) which had trouble witj camera & sensors which i tried fixing by replacing with stock libs but still it didnt work for some  reason, the last time i tried was in 2021 for a user but still.. c7 has those bugs
+in c7 pro it works flaulessly with no bugs at all, even my dad uses it as his daily driver ;)
